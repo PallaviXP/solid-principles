@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace solid
+namespace Solid.SingleResponsibilityPrinciple
 {
   public class CustomerService
   {
