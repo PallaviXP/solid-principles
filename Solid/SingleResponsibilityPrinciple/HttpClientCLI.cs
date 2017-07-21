@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 namespace Solid.SingleResponsibilityPrinciple
 {
 
+// POST http://foo.bar.com/people -h:Content-Type=application/json -h:Accept=application/json -c:{"name":"Pradip"}
   public class HttpClientCLI
   {
 
